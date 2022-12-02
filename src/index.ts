@@ -1,3 +1,3 @@
-import { CreditScoreOracle } from './CreditScoreOracle.js';
+import { OracleExample } from './OracleExample.js';
 
-export { CreditScoreOracle };
+export { OracleExample };
